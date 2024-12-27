@@ -1,0 +1,53 @@
+[
+    {
+      "poem": [
+        "Merry Christmas your journey begins",
+        "You’ll embark on an adventure to find more games to win",
+        "It’s now time to start the clock",
+        "Look for your gift in my sock"
+      ],
+      "question": "What did you get?",
+      "answer": "anomia"
+    },
+    {
+      "poem": [
+        "Now we must think the same",
+        "Be the odd one out and you lose the game",
+        "Your next clue will be in a place where many things are stored",
+        "Will it be cards or another game board"
+      ],
+      "question": "What is the animal on the box?",
+      "answer": "chameleon"
+    },
+    {
+      "poem": [
+        "We now build things in 3D",
+        "This game is kind of a party?",
+        "You'll find it where we keep things cool?",
+        "Here is a hint it must be near the pool?"
+      ],
+      "question": "What kind of party is it?",
+      "answer": "block"
+    },
+    {
+      "poem": [
+        "Here we may play in teams of 2, 4, or 1",
+        "This is it we are almost done.",
+        "Think it’s time to wrap things up?",
+        "Look near the place where you would wash your cup"
+      ],
+      "question": "What sort of games do we play?",
+      "answer": "mini game"
+    },
+    {
+      "poem": [
+        "At last the hunt is complete",
+        "Surely we are all on the edge of our seat",
+        "For this last game an opinion we must share",
+        "It might be binding under the stair"
+      ],
+      "question": "What is a group of this animal called?",
+      "answer": "herd"
+    }
+  ]
+  
