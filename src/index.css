@@ -2,21 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: 'CustomFont';
-  src: url('./assets/font/christmas_font.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  font-variation-settings: "COLR" 1;
 
-}
-
-
-@font-face {
-  font-family: 'Test';
-  src: url("src/assets/font/MerryChristmasFlake.ttf") format('truetype');
-  font-weight: normal;
-  font-style: normal;
-
+@layer base {
+  @font-face {
+    font-family: 'Test';
+    src: url('../public/assets/font/MerryChristmasFlake.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
 }
 

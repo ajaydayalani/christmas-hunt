@@ -1,6 +1,6 @@
 import './App.css';
 import { useState, useRef } from 'react';
-import hunt from "./assets/hunt.json";
+import hunt from "./hunt.json";
 import HuntItem from './components/HuntItem';
 
 const App = () => {
@@ -56,7 +56,7 @@ const App = () => {
   };
 
   return (
-    <div className="flex flex-col w-screen h-screen bg-cover bg-center bg-[url('./assets/models/4490938.jpg')]">
+    <div className="flex flex-col w-screen h-screen bg-cover bg-center bg-[url('./4490938.jpg')]">
       {landingVisble && <Landing />}
       {huntOngoing && <HuntItem item={item} increaseCount={increaseCount}/>}
       {(!landingVisble && !huntOngoing) && <Complete/>}
